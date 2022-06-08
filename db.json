@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 464,
+      "productnName": "product4",
+      "size": [
+        "xl",
+        "m"
+      ]
+    },
+    {
+      "id": 511,
+      "productnName": "product5",
+      "size": [
+        "l"
+      ]
+    },
+    {
+      "id": 562,
+      "productnName": "product2",
+      "size": [
+        "xl"
+      ]
+    },
+    {
+      "id": 741,
+      "productnName": "product3",
+      "size": [
+        "l",
+        "m"
+      ]
+    },
+    {
+      "id": 408,
+      "productnName": "product7",
+      "size": [
+        "xl",
+        "m"
+      ]
+    },
+    {
+      "id": 694,
+      "productnName": "product2",
+      "size": [
+        "l"
+      ]
+    },
+    {
+      "id": 859,
+      "productnName": "product2",
+      "size": [
+        "m",
+        "xl"
+      ]
+    }
+  ]
+}
